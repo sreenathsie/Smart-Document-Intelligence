@@ -123,6 +123,8 @@ Beyond the four features already working in this prototype, the planned Android 
 - [ ] Multi-user isolation if the app ever supports shared/synced use (currently single-user by design, in line with the no-backend constraint)
 - [ ] Proper error surfacing in the UI for failed ingestion or malformed model output, instead of raw exception text
 - [ ] Benchmark on-device latency/memory across a range of Android devices, not just flagship hardware
+### Doc multi chat
+![image](https://github.com/sreenathsie/Smart-Document-Intelligence/blob/main/screenshots/Screenshot%202026-07-26%20172836.png?raw=true)
 
 ---
 
