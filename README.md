@@ -1,4 +1,5 @@
 # 🧠 Smart Document Intelligence Platform (Colab T4)
+![image](https://github.com/sreenathsie/Smart-Document-Intelligence/blob/main/screenshots/Screenshot%202026-07-26%20170937.png?raw=true)
 
 A single-notebook, GPU-accelerated document intelligence app that runs entirely on a free/paid Google Colab T4 instance. Upload PDFs, DOCX, or XLSX files and chat with them, compare them, summarize them, or turn their tables into charts — no backend server, no cloud API keys, no cost beyond Colab compute.
 
