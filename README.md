@@ -127,6 +127,8 @@ Beyond the four features already working in this prototype, the planned Android 
 ![image](https://github.com/sreenathsie/Smart-Document-Intelligence/blob/main/screenshots/Screenshot%202026-07-26%20172836.png?raw=true)
 ### Chart generation
 ![image](https://github.com/sreenathsie/Smart-Document-Intelligence/blob/main/screenshots/Screenshot%202026-07-26%20174938.png?raw=true)
+### Document compare
+![image](https://github.com/sreenathsie/Smart-Document-Intelligence/blob/main/screenshots/Screenshot%202026-07-26%20173937.png?raw=true)
 ---
 
 ## Tech stack summary
