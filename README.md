@@ -125,7 +125,8 @@ Beyond the four features already working in this prototype, the planned Android 
 - [ ] Benchmark on-device latency/memory across a range of Android devices, not just flagship hardware
 ### Doc multi chat
 ![image](https://github.com/sreenathsie/Smart-Document-Intelligence/blob/main/screenshots/Screenshot%202026-07-26%20172836.png?raw=true)
-
+### Chart generation
+![image](https://github.com/sreenathsie/Smart-Document-Intelligence/blob/main/screenshots/Screenshot%202026-07-26%20174938.png?raw=true)
 ---
 
 ## Tech stack summary
