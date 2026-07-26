@@ -78,6 +78,7 @@ Everything runs inside one Colab cell as a [Gradio](https://gradio.app) app with
 
 ### Resource usage (T4, 15 GB VRAM)
 From testing: ~6.9/15.0 GB GPU RAM and ~9/12.7 GB system RAM at idle with the model loaded — leaves headroom for a document or two in context, but keep an eye on GPU RAM if ingesting many large files at once.
+![image](https://github.com/sreenathsie/Smart-Document-Intelligence/blob/main/screenshots/Screenshot%202026-07-26%20171910.png?raw=true)
 
 ---
 
